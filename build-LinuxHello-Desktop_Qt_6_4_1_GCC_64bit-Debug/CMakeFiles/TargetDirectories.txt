@@ -1,0 +1,9 @@
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/LinuxHello.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/LinuxHello_autogen_timestamp_deps.dir
+/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/LinuxHello_autogen.dir

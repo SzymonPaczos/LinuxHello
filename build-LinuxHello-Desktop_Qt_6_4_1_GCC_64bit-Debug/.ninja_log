@@ -1,0 +1,10 @@
+# ninja log v5
+1	6	0	/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/cmake.verify_globs	793cc0d5064610b3
+0	277	1670281524984191257	LinuxHello_autogen/timestamp	60e0f47619ebf6c4
+0	277	1670281524984191257	LinuxHello_autogen/mocs_compilation.cpp	60e0f47619ebf6c4
+0	277	1670281524984191257	/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/LinuxHello_autogen/timestamp	60e0f47619ebf6c4
+0	277	1670281524984191257	/home/szymon/Pulpit/LinuxHello/build-LinuxHello-Desktop_Qt_6_4_1_GCC_64bit-Debug/LinuxHello_autogen/mocs_compilation.cpp	60e0f47619ebf6c4
+277	1872	1670281526580169857	CMakeFiles/LinuxHello.dir/LinuxHello_autogen/mocs_compilation.cpp.o	667db4649152ca74
+277	1927	1670281526636169092	CMakeFiles/LinuxHello.dir/main.cpp.o	8812d849d2cefbab
+277	2068	1670281526776167176	CMakeFiles/LinuxHello.dir/mainwindow.cpp.o	c0aaa2cec3b086b6
+2069	2481	1670281527188161465	LinuxHello	72278a0b571f914b
